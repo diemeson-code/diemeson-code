@@ -48,7 +48,6 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 - Interfaces web  
   
 
----
 
 ### 🌎 Localização
 
