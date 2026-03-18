@@ -73,16 +73,11 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 ### 📈 Atividade
 
-### 🏆 Conquistas
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=diemeson-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Diemeson%20Santos&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
----
 
-
-
-
+--
 ### 🚀 Projetos
 
  - 🛒 E-commerce (TechShop) – Interface de loja virtual com foco em organização e experiência do usuário
