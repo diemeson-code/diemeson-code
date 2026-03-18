@@ -1,4 +1,6 @@
-# Diemeson Santos
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Diemeson%20Santos&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 **💻 Desenvolvedor Front-end**
 
