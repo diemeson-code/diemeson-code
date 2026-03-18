@@ -73,8 +73,10 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 ### 📈 Atividade
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diemeson-code&theme=tokyo-night"/>
+### 🏆 Conquistas
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=diemeson-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
