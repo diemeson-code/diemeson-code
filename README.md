@@ -75,10 +75,9 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 ### 🏆 Conquistas
 
-<p>
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=diemeson-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-
 ---
 
 
