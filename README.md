@@ -1,8 +1,8 @@
-# 💻 Diemeson Santos
+# Diemeson Santos
 
-**Desenvolvedor Front-end**
+**💻 Desenvolvedor Front-end**
 
-Atuo no desenvolvimento de interfaces web com foco em organização, performance e experiência do usuário.
+Atuo no desenvolvimento de interfaces web com foco em performance, organização e experiência do usuário.
 
 Trabalho com HTML, CSS e JavaScript, aplicando boas práticas e mantendo um código limpo, estruturado e de fácil manutenção.
 
@@ -75,9 +75,9 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 ### 🚀 Projetos
 
-- E-commerce (TechShop)  
+ - 🛒 E-commerce (TechShop) – Interface de loja virtual com foco em organização e experiência do usuário
 - Interfaces web  
-- Exercícios de lógica  
+  
 
 ---
 
