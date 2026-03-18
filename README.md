@@ -55,16 +55,26 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 ---
 
 ### 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=diemeson-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=diemeson-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  />
+
+  <img 
+    align="left" 
+    height="180" 
+    src="https://streak-stats.demolab.com?user=diemeson-code&theme=tokyonight" 
+  />
 </p>
 
 <br/>
 <br/>
+
+
 
 ### 📈 Atividade
 
