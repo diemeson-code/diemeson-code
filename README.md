@@ -29,10 +29,9 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 </p>
 
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
 
 <img alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -48,6 +47,8 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 </div>
 
 <br/>
+
+
 
 ---
 
