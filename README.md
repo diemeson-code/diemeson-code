@@ -55,7 +55,6 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 ---
 
 ### 📊 Estatísticas
-### 📊 Estatísticas
 
 <p>
   <img 
@@ -67,20 +66,12 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
   <img 
     align="left" 
     height="180" 
-    src="https://streak-stats.demolab.com?user=diemeson-code&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeson-code&theme=tokyonight&layout=compact&langs_count=6" 
   />
 </p>
 
 <br/>
 <br/>
-
-
-
-### 📈 Atividade
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Diemeson%20Santos&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
 --
 ### 🚀 Projetos
