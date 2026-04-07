@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Diemeson%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e5e,100:71b280&height=200&section=header&text=Diemeson%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:200122,100:6f0000 &height=200&section=header&text=Diemeson%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 ## 💻 Desenvolvedor Front-end
 
