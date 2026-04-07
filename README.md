@@ -56,7 +56,7 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diemeson-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeson-code&theme=tokyonight&layout=compact&langs_count=6"/>
 </p>
-![Streak](https://streak-stats.demolab.com?user=diemeson-code&theme=tokyonight)
+
 
 ---
 
