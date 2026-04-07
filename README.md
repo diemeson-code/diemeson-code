@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Diemeson%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-
-**💻 Desenvolvedor Front-end**
+## 💻 Desenvolvedor Front-end
 
 Atuo no desenvolvimento de interfaces web com foco em performance, organização e experiência do usuário.
 
@@ -13,8 +12,9 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<p align="left">
+### 📊 GitHub
+
+<p align="center">
     <a href="https://github.com/diemeson-code">
         <img 
             alt="Seguidores" 
@@ -33,62 +33,48 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+### 🚀 Linguagens e Tecnologias
 
-<img alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img alt="Bootstrap" title="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img alt="Tailwind" title="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-</div>
-
-<br/>
-
-
+<p align="left">
+<img alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</p>
 
 ---
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=diemeson-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeson-code&theme=tokyonight&layout=compact&langs_count=6" 
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diemeson-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeson-code&theme=tokyonight&layout=compact&langs_count=6"/>
 </p>
 
-<br/>
-<br/>
-
-<br clear="both"/>
-
-## 📊 Estatísticas
-
-https://github-readme-stats.vercel.app/api?username=diemeson-code&show_icons=true
+---
 
 ### 🚀 Projetos
 
- - 🛒 E-commerce (TechShop) – Interface de loja virtual com foco em organização e experiência do usuário
-- Interfaces web  
-  
+- 🛒 **TechShop (E-commerce)**  
+  Interface de loja virtual com foco em UX, responsividade e organização de código  
+  🔗 Em breve  
 
+- 💻 **Landing Page Responsiva**  
+  Projeto focado em HTML, CSS e boas práticas de layout  
+  🔗 Em breve  
+
+---
 
 ### 🌎 Localização
 
-Brasil
+Brasil 🇧🇷
+
 
 
 
