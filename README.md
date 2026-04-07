@@ -76,7 +76,11 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 <br clear="both"/>
 
+## 📊 Estatísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diemeson&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diemeson&layout=compact&theme=tokyonight)
 --
 ### 🚀 Projetos
 
