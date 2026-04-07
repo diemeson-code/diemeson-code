@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Diemeson%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e5e,100:71b280&height=200&section=header&text=Diemeson%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 ## 💻 Desenvolvedor Front-end
 
 Atuo no desenvolvimento de interfaces web com foco em performance, organização e experiência do usuário.
@@ -56,10 +58,8 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diemeson-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeson-code&theme=tokyonight&layout=compact&langs_count=6"/>
 </p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diemeson-code&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diemeson-code&layout=compact&theme=tokyonight"/>
-</p>
+
+
 
 ---
 
