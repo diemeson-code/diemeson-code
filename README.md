@@ -61,16 +61,18 @@ Utilizo Git e GitHub no fluxo de desenvolvimento para versionamento e controle d
 
 
 ---
-
 ### 🚀 Projetos
 
 - 🛒 **TechShop (E-commerce)**  
-  Interface de loja virtual com foco em UX, responsividade e organização de código  
+  Interface de loja virtual com foco em responsividade, usabilidade e organização de código.  
+  🛠 Tecnologias: HTML, CSS e JavaScript  
   🔗 Em breve  
 
 - 💻 **Landing Page Responsiva**  
-  Projeto focado em HTML, CSS e boas práticas de layout  
+  Projeto focado em HTML, CSS e boas práticas de layout.  
+  🛠 Tecnologias: HTML, CSS e JavaScript  
   🔗 Em breve  
+
 
 ---
 
